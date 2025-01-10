@@ -1,8 +1,13 @@
-+++
-date = '2025-01-10T15:27:09-06:00'
-draft = true
-title = 'My First Post'
-+++
+---
+date: 2025-01-10
+draft: true
+title: 'My First Post'
+categories:
+  - categories
+tags:
+  - About
+  - Drupal
+---
 
 ## Introduction
 
