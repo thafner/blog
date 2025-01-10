@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thomas Hafner&#39;s Blog</title>
+    <title>Homepage on Thomas Hafner</title>
     <link>https://thomashafner.co/</link>
-    <description>Recent content on Thomas Hafner&#39;s Blog</description>
+    <description>Recent content in Homepage on Thomas Hafner</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 15:27:09 -0600</lastBuildDate>
     <atom:link href="https://thomashafner.co/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://thomashafner.co/about/</link>
+      <pubDate>Fri, 10 Jan 2025 15:27:09 -0600</pubDate>
+      <guid>https://thomashafner.co/about/</guid>
+      <description>&lt;h2 id=&#34;learn-more&#34;&gt;Learn more&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>https://thomashafner.co/contact/</link>
+      <pubDate>Fri, 10 Jan 2025 15:27:09 -0600</pubDate>
+      <guid>https://thomashafner.co/contact/</guid>
+      <description>&lt;h2 id=&#34;learn-more&#34;&gt;Learn more&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://thomashafner.co/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Jan 2025 15:27:09 -0600</pubDate>
+      <guid>https://thomashafner.co/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is my about me blog.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://thomashafner.co/resume/</link>
+      <pubDate>Fri, 10 Jan 2025 15:27:09 -0600</pubDate>
+      <guid>https://thomashafner.co/resume/</guid>
+      <description>&lt;h2 id=&#34;learn-more&#34;&gt;Learn more&lt;/h2&gt;</description>
+    </item>
   </channel>
 </rss>

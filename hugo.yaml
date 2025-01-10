@@ -1,0 +1,31 @@
+baseURL: https://thomashafner.co/
+languageCode: en-us
+title: "Thomas Hafner"
+theme: PaperMod
+enableRobotsTXT: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+sitemap:
+  changeFreq: "always"
+  disable: false
+  filename: sitemap.xml
+  priority: -1
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: Posts
+      pageRef: /posts
+      weight: 10
+    - name: About
+      pageRef: /about
+      weight: 20
+    - name: Resume
+      pageRef: /resume
+      weight: 30
+    - name: Contact
+      pageRef: /contact
+      weight: 40
