@@ -6,19 +6,7 @@
     <lastmod>2025-01-10T15:30:09-06:00</lastmod>
     <changefreq>always</changefreq>
   </url><url>
-    <loc>https://thomashafner.co/posts/</loc>
-    <lastmod>2025-01-10T15:27:09-06:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/about/</loc>
-    <lastmod>2025-01-10T15:27:09-06:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
     <loc>https://thomashafner.co/contact/</loc>
-    <lastmod>2025-01-10T15:27:09-06:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/posts/my-first-post/</loc>
     <lastmod>2025-01-10T15:27:09-06:00</lastmod>
     <changefreq>always</changefreq>
   </url><url>
@@ -26,10 +14,36 @@
     <lastmod>2025-01-10T15:27:09-06:00</lastmod>
     <changefreq>always</changefreq>
   </url><url>
+    <loc>https://thomashafner.co/posts/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thomashafner.co/tags/about/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thomashafner.co/about/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thomashafner.co/categories/categories/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
     <loc>https://thomashafner.co/categories/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thomashafner.co/tags/drupal/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thomashafner.co/posts/my-first-post/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
   </url><url>
     <loc>https://thomashafner.co/tags/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
   </url>
 </urlset>

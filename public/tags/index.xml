@@ -6,6 +6,21 @@
     <description>Recent content in Tags on Thomas Hafner</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thomashafner.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://thomashafner.co/tags/about/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thomashafner.co/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drupal</title>
+      <link>https://thomashafner.co/tags/drupal/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thomashafner.co/tags/drupal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
