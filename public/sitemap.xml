@@ -2,48 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thomashafner.co/</loc>
-    <lastmod>2025-01-10T15:30:09-06:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/contact/</loc>
-    <lastmod>2025-01-10T15:27:09-06:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/resume/</loc>
-    <lastmod>2025-01-10T15:27:09-06:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/posts/</loc>
+    <loc>thafner-blog.pages.dev/posts/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
   </url><url>
-    <loc>https://thomashafner.co/tags/about/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <loc>thafner-blog.pages.dev/categories/</loc>
     <changefreq>always</changefreq>
   </url><url>
-    <loc>https://thomashafner.co/about/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/categories/categories/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/categories/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/tags/drupal/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/posts/my-first-post/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-  </url><url>
-    <loc>https://thomashafner.co/tags/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <loc>thafner-blog.pages.dev/tags/</loc>
     <changefreq>always</changefreq>
   </url>
 </urlset>
