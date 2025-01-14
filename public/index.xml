@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homepage on Thomas Hafner</title>
-    <link>https://thomashafner.co/</link>
+    <link>https://thafner-blog.pages.dev/</link>
     <description>Recent content in Homepage on Thomas Hafner</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jan 2025 15:27:09 -0600</lastBuildDate>
-    <atom:link href="https://thomashafner.co/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thafner-blog.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Me</title>
-      <link>https://thomashafner.co/contact/</link>
+      <link>https://thafner-blog.pages.dev/contact/</link>
       <pubDate>Fri, 10 Jan 2025 15:27:09 -0600</pubDate>
-      <guid>https://thomashafner.co/contact/</guid>
+      <guid>https://thafner-blog.pages.dev/contact/</guid>
       <description>&lt;h2 id=&#34;learn-more&#34;&gt;Learn more&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>https://thomashafner.co/resume/</link>
+      <link>https://thafner-blog.pages.dev/resume/</link>
       <pubDate>Fri, 10 Jan 2025 15:27:09 -0600</pubDate>
-      <guid>https://thomashafner.co/resume/</guid>
+      <guid>https://thafner-blog.pages.dev/resume/</guid>
       <description>&lt;h2 id=&#34;learn-more&#34;&gt;Learn more&lt;/h2&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://thomashafner.co/about/</link>
+      <link>https://thafner-blog.pages.dev/about/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://thomashafner.co/about/</guid>
+      <guid>https://thafner-blog.pages.dev/about/</guid>
       <description>&lt;h2 id=&#34;learn-more&#34;&gt;Learn more&lt;/h2&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://thomashafner.co/posts/my-first-post/</link>
+      <link>https://thafner-blog.pages.dev/posts/my-first-post/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://thomashafner.co/posts/my-first-post/</guid>
+      <guid>https://thafner-blog.pages.dev/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is my about me blog.&lt;/p&gt;</description>
     </item>

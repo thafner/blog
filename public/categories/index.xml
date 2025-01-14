@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Thomas Hafner</title>
-    <link>thafner-blog.pages.dev/categories/</link>
+    <link>https://thafner-blog.pages.dev/categories/</link>
     <description>Recent content in Categories on Thomas Hafner</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <atom:link href="thafner-blog.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thafner-blog.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories</title>
+      <link>https://thafner-blog.pages.dev/categories/categories/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thafner-blog.pages.dev/categories/categories/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

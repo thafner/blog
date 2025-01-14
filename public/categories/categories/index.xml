@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Thomas Hafner</title>
-    <link>https://thomashafner.co/categories/categories/</link>
+    <link>https://thafner-blog.pages.dev/categories/categories/</link>
     <description>Recent content in Categories on Thomas Hafner</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thomashafner.co/categories/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thafner-blog.pages.dev/categories/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://thomashafner.co/posts/my-first-post/</link>
+      <link>https://thafner-blog.pages.dev/posts/my-first-post/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://thomashafner.co/posts/my-first-post/</guid>
+      <guid>https://thafner-blog.pages.dev/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is my about me blog.&lt;/p&gt;</description>
     </item>
