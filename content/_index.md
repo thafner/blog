@@ -1,6 +1,6 @@
 ---
 date: '2025-01-10T15:30:09-06:00'
-draft: true
+draft: false
 title: 'Homepage'
 ---
 
